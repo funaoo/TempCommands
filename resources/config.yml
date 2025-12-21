@@ -1,0 +1,11 @@
+messages:
+  prefix: "TempPerms"
+  voucher-created: "Voucher creado correctamente"
+  voucher-used: "Permiso activado correctamente"
+  no-space: "No tienes espacio en el inventario"
+  invalid-time: "Formato de tiempo invalido"
+  permission-expired: "El permiso ha expirado"
+
+settings:
+  check-expiry-interval: 20
+  save-permissions-on-quit: true

@@ -1,0 +1,11 @@
+name: TempPermissions
+main: Funaoo\TempPermissions\Main
+version: 1.0.0
+api: 5.0.0
+author: Funaoo
+description: Plugin para crear vouchers de permisos temporales
+
+permissions:
+  temppermissions.create:
+    description: Permite crear vouchers de permisos
+    default: op
