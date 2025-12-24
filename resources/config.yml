@@ -9,3 +9,4 @@ messages:
 settings:
   check-expiry-interval: 20
   save-permissions-on-quit: true
+  
